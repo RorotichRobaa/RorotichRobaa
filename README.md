@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Python, JavaScript and Java
 - 🌱 I’m currently learning ...Automation and Web Development
 - 💞️ I’m looking to collaborate on ...Python projects
-- 📫 How to reach me ...rr0tich10@gmail.com,+254708006619
+- 📫 How to reach me ...rrotich10@gmail.com,+254708006619
 
 <!---
 RorotichRobaa/RorotichRobaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
